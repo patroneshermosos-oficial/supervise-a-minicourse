@@ -4,7 +4,7 @@ A continuación se muestra la rúbrica correspondiente para evaluar la aceptaci�
 
 A continuación podrás encontrar [este enlace](https://drive.google.com/drive/folders/1_ur_PzPpowaq30lL7hIXKSeD2Wus5Jrs?usp=sharing) que te llevará a una carpeta de google drive, en donde podrás calificar los mini cursos. 
 Las instrucciones son las siguientes: 
-1. Una vez que entres a la carpeta, encontrarás un archivo llamado **Plantilla**, da click derecho y selecciona la opción de "Hacer una copia"
+1. Una vez que entres a la carpeta, encontrarás un archivo llamado **00-Plantilla**, da click derecho y selecciona la opción de "Hacer una copia"
    <img width="868" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/1626474c-eb1d-49d8-9052-aa7d261f6356">
 2. Se creará un archivo llamado **Copia de Plantilla**, da click derecho y selecciona la opción de "Cambiar nombre" y escribe el nombre del mini - curso que estarás calificando, como puedes ver en el ejemplo
    <img width="845" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/e72814b3-2796-4a2a-ac63-58ac8906e3da">
