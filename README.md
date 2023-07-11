@@ -1,27 +1,27 @@
 # minicourse-for-minicourses
-Guía detallada para chicas que deseen impartir mini cursos en tecnología en Patrones Hermosos. Requisitos, recomendaciones y etapas de aplicación
+Guía detallada para chicas que participar en el proyecto de mini cursos en tecnología en Patrones Hermosos. Equipo de Patrones Hermosos en evaluación de mini cursos
 
 # ¡Bienvenida a la supervisión en la creación de mini cursos en Patrones Hermosos!
 
 ## ¿Por qué es importante la creación de mini cursos?
 
-La creación de mini cursos te permite ser parte del cambio y promover la igualdad de género en la tecnología. Al impartir tus conocimientos, estás contribuyendo a romper barreras y abrir puertas para que más mujeres puedan acceder a oportunidades en las áreas STEM.
+La creación de mini cursos permite ser parte del cambio y promover la igualdad de género en la tecnología. Al impartir conocimientos, se contribuye a romper barreras y abrir puertas para que más mujeres puedan acceder a oportunidades en las áreas STEM.
 
-## Beneficios para ti al crear mini cursos
+## Beneficios para las instructoras de los minicursos
 
-Al unirte a la creación de mini cursos en Patrones Hermosos, podrás:
+Las chicas que deciden impartir un minicurso de un tema de interés, podrán:
 
 - Compartir tu experiencia y pasión por la tecnología de una manera creativa y significativa.
 - Desarrollar habilidades de enseñanza, comunicación y liderazgo.
 - Conectar con otras chicas interesadas en STEM y formar una comunidad de apoyo.
 - Ampliar tu red de contactos en el campo de la tecnología y tener oportunidades de crecimiento personal y profesional.
 
-## Beneficios para otras chicas al participar en tus mini cursos
+## Impacto en las chicas que toman los minicursos
 
-Tu participación en la creación de mini cursos de Patrones Hermosos tiene un impacto directo en otras chicas. Al impartir tus conocimientos, estarás:
+Al estar recibiendo este material, estarán:
 
-- Inspirando y motivando a otras chicas a explorar su pasión por la tecnología.
-- Brindando oportunidades de aprendizaje en áreas STEM de una manera accesible y amigable.
+- Siendo inspiradas y motivadas a explorar su pasión por la tecnología.
+- Ofreciendoles oportunidades de aprendizaje en áreas STEM de una manera accesible y amigable.
 - Construyendo una comunidad de apoyo y empoderamiento para más mujeres en el campo de la tecnología.
 - Contribuyendo a cerrar la brecha de género al aumentar la representación femenina en las STEM.
 
