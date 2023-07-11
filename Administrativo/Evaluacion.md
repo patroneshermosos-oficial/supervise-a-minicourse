@@ -31,7 +31,7 @@ Las instrucciones son las siguientes:
 
 Eso es todo lo que tienes que hacer, ahora es momento de notificar a la instructora el estatus de la revisión de su mini curso. 
 
-Para esto, dirigete al archivo de [Formato-Retroalimentacion.md](Administrativo/Formato-Retroalimentacion.md)
+Para esto, dirigete al archivo de [Formato-Retroalimentacion.md](Formato-Retroalimentacion.md)
 
 
 # Información extra de puntajes y retroalimentación en caso de mostrar algún error en la hoja automatizada
