@@ -12,9 +12,11 @@ Las instrucciones son las siguientes:
 3. Ya puedes ingresar al archivo y comenzar a calificar
    a. Encontrarás un grupo de celdas en color amarillo para llenar los datos de identificación del curso, es importante que coloques el nombre del curso y de la instructora, antes de empezar a calificar como se muestra en el ejemplo
   <img width="519" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/14924a9e-c3b2-4231-b6e9-9b13f4a189f0">
-   b. Posteriormente, encontrarás diversas secciones en para seleccionar el puntaje de acuerdo a la descripción del rubro, las valores ya están predeterminados para que los elijas. Llena cada una de las secciones, desde **Contenido** hasta **Evaluación global**. A continuación se muestra un ejemplo:
+
+    b. Posteriormente, encontrarás diversas secciones en para seleccionar el puntaje de acuerdo a la descripción del rubro, las valores ya están predeterminados para que los elijas. Llena cada una de las secciones, desde **Contenido** hasta **Evaluación global**. A continuación se muestra un ejemplo:
    <img width="532" alt="image" src="https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/assets/72468795/d72eca7f-c1bd-4fe4-a99f-30361f51ad73">
-   c. Una vez que termines, podrás darte cuenta de que la puntuación total generada se suma automáticamente
+
+   c. Una vez que termines, podrás darte cuenta de que la puntuación total generada se suma automáticamente (como se observa en la parte inferior de la captura de pantalla anterior
 
 
 
