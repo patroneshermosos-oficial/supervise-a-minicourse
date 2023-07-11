@@ -31,5 +31,5 @@ Si te gustaría contribuir y apoyar a las chicas de Patrones Hermosos en su proc
 
 Al formar parte del equipo de supervisión y evaluación, estarás contribuyendo directamente a la misión de Patrones Hermosos de fomentar el desarrollo de habilidades tecnológicas en las mujeres jóvenes. Tu experiencia y conocimientos serán clave para impulsar el crecimiento y el aprendizaje de las chicas que participen en esta iniciativa
 
-Para obtener más información y navegar en este repositorio, puedes visitar [este enlace](https://github.com/patroneshermosos-oficial/minicourse-for-minicourses/blob/main/guia.md).
+Para obtener más información y navegar en este repositorio, puedes visitar [este enlace](https://github.com/patroneshermosos-oficial/supervise-a-minicourse/guia.md).
 
