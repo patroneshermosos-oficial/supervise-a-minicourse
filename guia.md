@@ -12,7 +12,7 @@ Aprende a navegar en este repositorio:
 
 - [05-anexos.md](./General/05-anexos.md): Enlaces útiles y recursos adicionales.
 
-*Nota: la carpeta de "general" se muestra así para las instructoras de los mini cursos, pero consideramos que es importante que tú también puedas ver este contenido* 
+*Nota: la carpeta de "general" se muestra así para las instructoras de los mini cursos, pero consideramos que es importante que tú también puedas ver este contenido en el mismo formato que ellas* 
 
 ## Carpeta "Administrativo"
 - [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
