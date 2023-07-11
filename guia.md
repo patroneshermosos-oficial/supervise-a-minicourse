@@ -17,7 +17,8 @@ Aprende a navegar en este repositorio:
 ## Carpeta "Administrativo"
 - [Carta_DatosImagen.md](./Administrativo/Carta_DatosImagen.md): Formato para informar a las chicas sobre el uso de su imagen y datos personales.
 
-- [Rubrica_Propuestas.md](./Administrativo/Rubrica_Propuestas.md): Registro y condiciones para aceptar propuestas de cursos.
+- [Evaluacion.md](./Administrativo/Evaluacion.md): Formato de rúbrica de evaluación para los mini cursos.
+
 
 ## Carpeta "Produccion"
 ### Carpeta "Video_IA"
